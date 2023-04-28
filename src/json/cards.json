@@ -1,0 +1,62 @@
+{
+    "offerCards": [
+        {
+            "src": "../images/pictures/card1.png",
+            "text": " Перевозка  <br> <span>опасных грузов</span>",
+            "icon": "../images/icons/card1-hover.svg"
+        },
+        {
+            "src": "../images/pictures/card2.png",
+            "text": "  Перевозка <br> радиофармпрепаратов  <br> <span>7 класса опасности</span>",
+            "icon": "../images/icons/card1-hover.svg"
+        },
+        {
+            "src": "../images/pictures/card3.png",
+            "text": " Перевозка медикаментов <br> <span>с температурным <br>  режимом</span>",
+            "icon": "../images/icons/card1-hover.svg"
+        }
+    ],
+    "workCards": [
+        {
+            "src": "../images/pictures/task_list 3.png",
+            "number": "03",
+            "text": "  Вы размещаете <span>заявку</span> "
+        },
+        {
+            "src": "../images/pictures/task_list 2.png",
+            "number": "02",
+            "text": "  Вместе согласуем <span>маршрут</span> "
+        },
+        {
+            "src": "../images/pictures/task_list 1.png",
+            "number": "01",
+            "text": "    Мы осуществляем <span>перевозку</span> "
+        }
+    ],
+    "partnersCards": [
+        {
+            "src": "../images/pictures/partners1.png"
+        },
+        {
+            "src": "../images/pictures/partners2.png"
+        },
+        {
+            "src": "../images/pictures/partners3.png"
+        },
+        {
+            "src": "../images/pictures/partners4.png"
+        },
+        {
+            "src": "../images/pictures/partners5.png"
+        },
+        {
+            "src": "../images/pictures/partners6.png"
+        },
+        {
+            "src": "../images/pictures/partners7.png"
+        },
+        {
+            "src": "../images/pictures/partners8.png"
+        }
+    ]
+}
